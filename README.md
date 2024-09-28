@@ -73,4 +73,4 @@
 - [vjudge](https://vjudge.net/user/tamimaa0)
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Sahrior&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=tamimaa0&style=flat-square&color=blue)
