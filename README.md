@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Md Maruf Hossain Tamim <span class="wave">👋</span></h1>
 
 ## 🏅 Achievements
-- 2 star rating on codechef [( Highest rating 1454 )](https://www.codechef.com/users/tamimaa0)
+- 2 star rating on codechef [( Highest rating 1481 )](https://www.codechef.com/users/tamimaa0)
 - 1100+ rating in codeforces [( 1100+ rating )](https://codeforces.com/profile/tamimaa0)
 - 5-star problem solver [in Hackerrank](https://www.hackerrank.com/profile/tamimaa0)
   
