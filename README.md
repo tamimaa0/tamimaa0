@@ -7,7 +7,7 @@
   
 ## 🏆 Contest Ranking
 - Qualified for the first round of the [SRBD Code Contest 2024](https://www.hackerrank.com/contests/srbd-code-contest-2024-round-1/leaderboard)
-- Participate in ICPC Dhaka Regional 2024 [ICPC 2024(UIU_Entropy)] (https://icpc.global/regionals/finder/Dhaka-2025/standings)
+- Participate in ICPC Dhaka Regional 2024 [ICPC 2024(UIU_Entropy)](https://icpc.global/regionals/finder/Dhaka-2025/standings)
 
 ## 🚀 About Me
 - First-year student at United International University and a competitive programmer.
